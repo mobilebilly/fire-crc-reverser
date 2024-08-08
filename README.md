@@ -1,3 +1,5 @@
+[![Build Status](https://mobilebilly.visualstudio.com/fire-crc-reverser/_apis/build/status%2Fmobilebilly.fire-crc-reverser?branchName=master)](https://mobilebilly.visualstudio.com/fire-crc-reverser/_build/latest?definitionId=1&branchName=master)
+
 # fire-crc-reverser
 A utility to find out all the possible inputs to generate a specific crc hex value with brute force
 ```
